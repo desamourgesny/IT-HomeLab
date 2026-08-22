@@ -32,3 +32,5 @@ networking, troubleshooting, automation, and cybersecurity skills.
 
 \- Security monitoring and hardening
 
+\-Day 1 review completed
+
